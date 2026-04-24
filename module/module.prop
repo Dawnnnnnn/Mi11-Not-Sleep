@@ -1,0 +1,6 @@
+id=server_phone
+name=Server Phone
+version=v1.0.0
+versionCode=1
+author=dawn
+description=Turn phone into a server: unlimited background processes, power-button brightness toggle, screen always on

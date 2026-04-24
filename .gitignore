@@ -1,0 +1,4 @@
+module/bin/
+server_phone_module.zip
+*.o
+*.DS_Store
